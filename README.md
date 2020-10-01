@@ -1,5 +1,5 @@
 # Lending_Club_CaseStudy
-The Goal of this EDA is understand how consumer attributes and loan attributes influence the tendency of default.
+The Goal of this EDA is to understand how consumer attributes and loan attributes influence the tendency of default.
 
 When a person applies for a loan, there are two types of decisions that could be taken by the company:
 
