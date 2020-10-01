@@ -14,4 +14,4 @@ Charged-off: Applicant has not paid the instalments in due time for a long perio
 Loan rejected: The company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was rejected, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
 
 Dataset Used:
-The loan dataset contains the complete loan data for all loans issued through the time period 2007 to 2011.
+The loan dataset contains the complete loan data for all loans issued through the time period 2007 to 2011. The dataset is available in loan.zip
